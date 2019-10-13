@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+
+input {
+    width: 50%;
+    height: 30px;
+}
+
+#verify {
+    color: #757761;
+}
+#entityID, #keyDescriptor, #X509Cert, #HTTP-Redirect {
+    color: #E36397;
+}
